@@ -1,0 +1,10 @@
+mergeConflictData: >
+  | First Name | Last Name | University/Institution | Department |
+  
+  |---|---|---|---|
+  
+  | Chris | Cannon | North Carolina A&T State University | Electrical and Computer Engineering |
+  
+  | Bob | Ross | School of Hard Knocks | Dept of Looking on the Bright Side |
+  
+conflictTargetFile: GroupAssignment.md
